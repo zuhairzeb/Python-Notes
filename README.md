@@ -271,6 +271,12 @@ In Python, assigning a value to a variable is straightforward. You use the `=` o
 age = 25
 name = "John"
 height = 5.9
+
+# Printing the values to display them in the console
+print("Age:", age)
+print("Name:", name)
+print("Height:", height)
+
 ```
 
 In this example:
