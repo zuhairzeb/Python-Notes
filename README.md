@@ -474,7 +474,9 @@ print(x ^ y)  # Output: 6 (101 ^ 011 = 110)
 Example:
 
 ```python
-x = [1, 2, 3]y = xz = [1, 2, 3]
+x = [1, 2, 3]
+y = x
+z = [1, 2, 3]
 print(x is y)    
   # True (both x and y point to the same list)
  print(x is not z)  
