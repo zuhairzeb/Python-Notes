@@ -123,6 +123,8 @@ Deactivate the Virtual Environment:
 
 * Simply run `deactivate` when you want to exit the virtual environment.
 
+<mark style="color:blue;">©</mark> <mark style="color:red;">2024 Muhammad Zuhair Zeb. All rights reserved.</mark>
+
 ## Getting Started
 
 ## What is Syntax?
