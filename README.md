@@ -849,8 +849,11 @@ print(even_numbers)  # Output: [2, 4, 6]
    * **Skills Covered:** Functions, Conditional Statements
    * **Description:** Built a unit converter that allows users to convert between different units like kilometers to miles, kilograms to pounds, and Celsius to Fahrenheit.
 10. **Basic Quiz Application**
+
     * **Skills Covered:** Lists, Loops, Conditional Statements
     * **Description:** Developed a simple quiz program that asks users multiple-choice questions, tracks their answers, and provides the final score.
+
+
 
 \ <mark style="color:purple;">Intermediate Python Notes:-</mark>
 ----------------------------------------------------------------
@@ -1341,3 +1344,11 @@ class Cat(Animal):
 cat = Cat()
 cat.speak()  # Output: Meow
 ```
+
+##
+
+## Legal Notices
+
+© 2024 Muhammad Zuhair Zeb. All rights reserved.
+
+These Python notes, authored by Muhammad Zuhair Zeb, are protected by copyright law. No part of these notes may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations for educational or reference purposes.
