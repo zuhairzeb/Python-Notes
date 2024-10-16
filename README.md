@@ -28,11 +28,11 @@ layout:
 
 > Python is an interpreted, Object-Orinted, high level programming language with dynamic semantic.
 
-<mark style="color:red;">**Interpreted:**</mark>
+<mark style="color:red;background-color:yellow;">**Interpreted:**</mark>
 
 <mark style="color:purple;">This means the code runs directly, one line at a time, without being turned into another language first.</mark>
 
-<mark style="color:red;">**Compiler:**</mark>
+<mark style="color:red;background-color:yellow;">**Compiler:**</mark>
 
 <mark style="color:purple;">A compiler is a program that converts code into machine language so the computer can run it.</mark>
 
