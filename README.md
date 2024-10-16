@@ -26,17 +26,23 @@ layout:
 
 &#x20;                                                                    OR
 
-
-
 > Python is an interpreted, Object-Orinted, high level programming language with dynamic semantic.
 
 <mark style="color:red;">**Interpreted:**</mark>
 
-<mark style="color:orange;">**This means the code runs directly, one line at a time, without being turned into another language first.**</mark>
+<mark style="color:purple;">This means the code runs directly, one line at a time, without being turned into another language first.</mark>
 
 <mark style="color:red;">**Compiler:**</mark>
 
-<mark style="color:orange;">**A compiler is a program that converts code into machine language so the computer can run it.**</mark>
+<mark style="color:purple;">A compiler is a program that converts code into machine language so the computer can run it.</mark>
+
+### <mark style="color:green;">**Example:**</mark>
+
+
+
+```python
+Print("Hello World")
+```
 
 ## <mark style="color:blue;">**Application of Python:**</mark>
 
@@ -97,13 +103,7 @@ layout:
 * **Uber**: Uses Python for managing logistics, data processing, and algorithms for their services.
 * **Reddit**: The entire platform is built on Python due to its ability to handle heavy traffic and user data effectively.
 
-### <mark style="color:green;">Example</mark>
-
-```python
-print("Hello world")
-```
-
-### Why do we use Python?
+### <mark style="color:blue;">Why do we use Python?</mark>
 
 ***
 
@@ -116,11 +116,11 @@ Python is commonly used for:
 
 Python's simplicity and ease of learning have made it popular among non-programmers, including accountants and scientists, who use it for various everyday tasks, such as organizing finances and analyzing data.
 
-## History of Python:
+## <mark style="color:blue;">History of Python:</mark>
 
-Python was developed by Guido van Rossum in the late 1980s and early 1990s at the National Research Institute for Mathematics and Computer Science (CWI) in the Netherlands. Python draws inspiration from several languages, including ABC, Modula-3, C, C++, Algol-68, Smalltalk, and Unix shell scripting languages. These influences helped shape Python's design and features. Python is indeed copyrighted, but it is not distributed under the GNU General Public License (GPL). Instead, Python is available under the Python Software Foundation License, which is a permissive open-source license. The name "Python" is inspired by the British comedy series Monty Python's Flying Circus. It was chosen by Van Rossum, who was a fan of the show.Guido van Rossum was initially given the title Benevolent Dictator For Life (BDFL) by the Python community. In 2018, Van Rossum stepped down from this role. The development and distribution of Python are now overseen by the Python Software Foundation (PSF), a non-profit organization.
+Python was developed by Guido van Rossum in the late 1980s and early 1990s at the National Research Institute for Mathematics and Computer Science (CWI) in the Netherlands. Python draws inspiration from several languages, including ABC, Modula-3, C, C++, Algol-68, Smalltalk, and Unix shell scripting languages. These influences helped shape Python's design and features. Python is indeed copyrighted, but it is not distributed under the GNU General Public License (GPL). Instead, Python is available under the Python Software Foundation License, which is a permissive open-source license. The name "Python" is inspired by the British comedy series Monty Python's Flying Circus. It was chosen by Van Rossum, who was a fan of the show. Guido van Rossum was initially given the title Benevolent Dictator For Life (BDFL) by the Python community. In 2018, Van Rossum stepped down from this role. The development and distribution of Python are now overseen by the Python Software Foundation (PSF), a non-profit organization.
 
-## Who Invented Python?
+## <mark style="color:blue;">Who Invented Python?</mark>
 
 Python was invented by Guido van Rossum, a Dutch programmer, in the late 1980s. The first version of Python (0.9.0) was released in 1991.
 
