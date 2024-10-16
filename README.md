@@ -20,11 +20,84 @@ layout:
 
 # Python
 
-## What is Python?
+## <mark style="color:blue;">What is Python?</mark>
 
 > Python is dynamically type. General purpose programming language that supports object-oriented programming approach as well as functional programming approach.
 
-### Example
+&#x20;                                                                    OR
+
+
+
+> Python is an interpreted, Object-Orinted, high level programming language with dynamic semantic.
+
+<mark style="color:red;">**Interpreted:**</mark>
+
+<mark style="color:orange;">**This means the code runs directly, one line at a time, without being turned into another language first.**</mark>
+
+<mark style="color:red;">**Compiler:**</mark>
+
+<mark style="color:orange;">**A compiler is a program that converts code into machine language so the computer can run it.**</mark>
+
+## <mark style="color:blue;">**Application of Python:**</mark>
+
+
+
+* Network Programming
+* Data Analysis
+* Robotics
+* Website and Application Development&#x20;
+* Desktop Application
+* Games Developments
+* Web Scraping&#x20;
+* Data Visualization
+* Scientific Calculation
+* Machine Learning & Artificial Intelligence
+* 3D Application Development
+* Audio & Video Software Development
+
+
+
+## <mark style="color:blue;">Companies using Python:</mark>
+
+#### 1. **Tech Giants**
+
+* **Google**: Uses Python for many systems including YouTube and internal systems. Python's simplicity helps Google engineers implement scalable systems efficiently.
+* **Facebook**: Uses Python for back-end services and infrastructure management. It plays a significant role in Facebook's production engineering.
+* **Instagram**: Instagram, owned by Facebook, uses Python extensively on its back-end due to its scalability and simplicity, especially as the app has grown.
+* **Spotify**: Uses Python for data analysis and back-end services, especially for recommendations and music streaming algorithms.
+* **Dropbox**: Both the desktop client and server-side infrastructure are built using Python. The founder of Dropbox, Drew Houston, is a known advocate for Python.
+* **Netflix**: Uses Python for machine learning models, analytics, and back-end services to recommend content to users and optimize streaming.
+
+#### 2. **Finance and FinTech**
+
+* **JPMorgan Chase**: Uses Python for quantitative research, data analysis, and risk management. Python’s popularity in finance is growing rapidly.
+* **Stripe**: A payment processing platform that uses Python for its API development, particularly because of Python's ease in handling data-intensive tasks.
+* **Goldman Sachs**: Uses Python in various applications, especially for data analysis and algorithmic trading.
+
+#### 3. **Entertainment and Media**
+
+* **Disney**: Uses Python for many automation tasks, such as movie production pipelines and content management systems.
+* **Industrial Light & Magic**: (A Lucasfilm division) uses Python to automate and streamline processes in movie production.
+* **Pixar**: Uses Python in their animation production process to develop new features, manage rendering, and for production pipelines.
+
+#### 4. **E-commerce**
+
+* **Amazon**: Uses Python for various services including back-end operations, data analytics, and machine learning for its recommendation engine.
+* **eBay**: Uses Python for backend systems to support scalability and handling of their large customer base.
+
+#### 5. **Health and Biotech**
+
+* **Pfizer**: Uses Python for clinical trials, drug development, and to analyze large amounts of biological data.
+* **Genentech**: Uses Python for research in bioinformatics and drug discovery.
+
+#### 6. **Other Industries**
+
+* **NASA**: Uses Python for scientific computations, especially in data analysis and software development.
+* **Tesla**: Python is used for automation, data analysis, and machine learning, particularly in autopilot features.
+* **Uber**: Uses Python for managing logistics, data processing, and algorithms for their services.
+* **Reddit**: The entire platform is built on Python due to its ability to handle heavy traffic and user data effectively.
+
+### <mark style="color:green;">Example</mark>
 
 ```python
 print("Hello world")
